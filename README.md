@@ -14,6 +14,7 @@ As part of the **Google Data Analytics Professional Certification**, I analyzed 
 * `Visualizations and Dashboards/`: Exported PNGs of the Primary Analysis Charts.
 * `Workbook/`: The `.twbx` Tableau Packaged Workbook for Interactive Viewing.
 
+---
 
 ## 🏢 Business Context & Organizational Background
 
