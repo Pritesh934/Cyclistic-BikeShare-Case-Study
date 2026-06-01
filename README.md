@@ -61,8 +61,9 @@ and the data type of each variable is depicted below:
 
 <img width="558" height="643" alt="image" src="https://github.com/user-attachments/assets/a2e79e36-2c1d-4222-b2e3-bc23f55482b1" />
 
+---
 
-### Data Preprocessing (Cleaning & Transformation)🏗️
+## Phase 3: Data Preprocessing (Cleaning & Transformation)🏗️
 
 I used **SQL Server Management Studio (SSMS 22)** to clean, transform, and verify the dataset to ensure it was accurate, consistent, and ready for analysis. The raw data initially contained over **5,722,062 rows**.
 
@@ -77,6 +78,7 @@ I used **SQL Server Management Studio (SSMS 22)** to clean, transform, and verif
   * Excluded rides lasting **longer than 24 hours** (indicative of lost, unreturned, or stolen equipment).
 * **✅ Final Dataset Verification:** After executing these cleaning and filtration steps, the pipeline returned a final database of **4,224,062 clean, usable rows** for analysis. This workflow successfully isolated and dropped a total of **1,496,735 rows** of inconsistent or incomplete data, establishing a high-quality foundation for the subsequent visualization phase.
 
+---
 ## 📂 Repository Structure
 
 * `Datasets/`: Documentation regarding the source data.
