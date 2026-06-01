@@ -4,6 +4,17 @@
 As part of the **Google Data Analytics Professional Certification**, I analyzed 12 months of Cyclistic bike-share data **(For 2024)** to identify how **annual members** and **casual riders** use the service differently. The goal of this analysis was to provide data-driven recommendations to convert casual riders into long-term members.
 
 ---
+
+## 📂 Repository Structure
+
+* `Datasets/`: Documentation Regarding the Source Data.
+* `PPT/`: Presentations Based on Final Report.
+* `Report/`: Final Case Study report.
+* `Scripts/`: SQL Queries Used for Data Cleaning and Transformation.
+* `Visualizations and Dashboards/`: Exported PNGs of the Primary Analysis Charts.
+* `Workbook/`: The `.twbx` Tableau Packaged Workbook for Interactive Viewing.
+
+
 ## 🏢 Business Context & Organizational Background
 
 ### 🚀 Project Introduction
@@ -192,10 +203,4 @@ By tailoring Cyclistic's commercial strategy to this consumer reality—focusing
 
 ---
 
-## 📂 Repository Structure
 
-* `Datasets/`: Documentation regarding the source data.
-* `Scripts/`: SQL queries used for data cleaning and transformation.
-* `Visualizations and Dashboards/`: Exported PNGs of the primary analysis charts.
-* `Workbook/`: The `.twbx` Tableau Packaged Workbook for interactive viewing.
-* `Report/`: Final PDF case study report.
