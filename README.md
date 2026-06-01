@@ -1,7 +1,7 @@
-# 🚲 Cyclistic Bike-Share Case Study: How does a bike-share navigate speedy success?
+# 🚲 Cyclistic Bike-Share Analysis Case Study: How does a bike-share navigate speedy success?
 
 ## 📋 Project Overview
-As part of the **Google Data Analytics Professional Certification**, I analyzed 12 months of Cyclistic bike-share data **(For 2024)** to identify how **annual members** and **casual riders** use the service differently. The goal of this analysis was to provide data-driven recommendations to convert casual riders into long-term members.
+As part of the **Google Data Analytics Professional Certification**, I worked as a Junior Data Analyst within the Marketing Analytics team of Cyclistic (a fictional company), where I analyzed 12 months of Cyclistic bike-share data **(For 2024)** to identify how **annual members** and **casual riders** use the service differently. The goal of this analysis was to provide data-driven recommendations to convert casual riders into long-term members.
 
 ---
 
