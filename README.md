@@ -85,6 +85,8 @@ I used **SQL Server Management Studio (SSMS 22)** to clean, transform, and verif
 ### 🔍 Analytical Focus
 The central guiding question of this phase is: **How do annual members and casual riders use Cyclistic bikes differently?** To uncover these behavioral differences, the cleaned dataset was imported into **Tableau Desktop** for detailed exploratory data analysis (EDA) and visualization.
 
+> 💡 **NOTE:** In the legend, the 🟦 **Blue Color** represents **Casual Riders** (Casual Members), while the 🟧 **Orange Color** represents **Annual or Full-Time Members** (Annual or Full-Time Riders), who are also referred to as "member(s)".
+
 ### Total Rides by User Type in 2024 (Pie Chart):
 The initial analysis examined the overall volume and market share breakdown of bicycle activity across the entire calendar year:
 
