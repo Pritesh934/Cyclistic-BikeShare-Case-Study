@@ -108,7 +108,7 @@ The initial analysis examined the overall volume and market share breakdown of b
 * **The Intensity Gap:** Casual riders average **1,131.1 seconds (18.85 mins)** per trip, while annual members average **716.8 seconds (11.94 mins)**. 
 * **Duration Comparison:** Member ride durations are approximately **1.57 times shorter** than those of casual riders.
 
-### Trips Taken in a Month:
+### Trips Taken in a Month (Stacked Column Chart):
 
 <img width="1457" height="736" alt="image" src="https://github.com/user-attachments/assets/d4f94743-d37d-4b11-8210-1b88b6a63a17" />
 
