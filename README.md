@@ -79,6 +79,17 @@ I used **SQL Server Management Studio (SSMS 22)** to clean, transform, and verif
 * **✅ Final Dataset Verification:** After executing these cleaning and filtration steps, the pipeline returned a final database of **4,224,062 clean, usable rows** for analysis. This workflow successfully isolated and dropped a total of **1,496,735 rows** of inconsistent or incomplete data, establishing a high-quality foundation for the subsequent visualization phase.
 
 ---
+
+## 📊 Data Analysis Phase 4: Analyze
+
+### 🔍 Analytical Focus
+The central guiding question of this phase is: **How do annual members and casual riders use Cyclistic bikes differently?** To uncover these behavioral differences, the cleaned dataset was imported into **Tableau Desktop** for detailed exploratory data analysis (EDA) and visualization.
+
+### 📈 Total Rides by User Type in 2024 (Pie Chart)
+The initial analysis examined the overall volume and market share breakdown of bicycle activity across the entire calendar year:
+
+<img width="1262" height="730" alt="image" src="https://github.com/user-attachments/assets/fd1bdfcd-6f8a-4fdc-9892-41e54b089027" />
+
 ## 📂 Repository Structure
 
 * `Datasets/`: Documentation regarding the source data.
