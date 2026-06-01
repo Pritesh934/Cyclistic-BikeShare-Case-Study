@@ -25,6 +25,31 @@ The cleaned data was imported into **Tableau Desktop** for exploratory data anal
 
 ---
 
+## 📖 Background & Business Case
+
+### 1. 🚀 Project Introduction
+As a Junior Data Analyst on the Cyclistic marketing analytics team, I am conducting this case study to help drive the company's future growth. To answer our core business questions, I am following the structured data analysis process: **Ask, Prepare, Process, Analyze, Share, and Act**. This report serves as a comprehensive look at my findings and data-driven recommendations.
+
+### 2. 🎯 Business Scenario
+The Director of Marketing, Lily Moreno, has identified that Cyclistic's future success depends on maximizing the number of annual memberships. My primary objective is to understand how casual riders and annual members use Cyclistic bikes differently. By uncovering these insights, I aim to provide the marketing team with the necessary intelligence to design a strategy that converts casual riders into long-term annual members. My recommendations must be approved by the executive team and are therefore backed by compelling data insights and professional visualizations.
+
+### 3. 🏢 Organizational Context
+Since its launch in 2016, Cyclistic has grown into a premier bike-share program in Chicago with a fleet of over **5,800 geotracked bicycles** and **600 docking stations**. 
+
+#### 🚲 Service Offerings
+* I recognize that Cyclistic distinguishes itself through inclusivity, offering not only traditional bikes but also reclining bikes, hand tricycles, and cargo bikes.
+* While the majority of our users opt for traditional bikes, approximately **8%** utilize assistive options.
+* Our data shows that while most riders use the service for leisure, about **30%** of our users rely on these bikes for their daily commute.
+
+#### 💳 Pricing and Profitability
+Currently, Cyclistic offers three tiers of pricing: **single-ride passes, full-day passes, and annual memberships**.
+* I define **"casual riders"** as those purchasing single or full-day passes, while **"members"** are those with annual subscriptions.
+* Internal financial analysis has confirmed that annual members are significantly **more profitable** than casual riders.
+
+#### 🔄 The Strategy Shift
+Previously, our marketing relied on broad awareness campaigns. However, I am now focusing on Moreno's goal of **conversion**. Because casual riders are already familiar with our service, they represent a high-potential segment for membership growth. To facilitate this, I have analyzed historical bike trip data to identify the behavioral trends that differentiate these two groups.
+
+---
 
 ## 💡 Key Insights & Findings
 
