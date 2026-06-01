@@ -88,7 +88,8 @@ The central guiding question of this phase is: **How do annual members and casua
 ### 📈 Total Rides by User Type in 2024 (Pie Chart)
 The initial analysis examined the overall volume and market share breakdown of bicycle activity across the entire calendar year:
 
-<img width="1262" height="730" alt="image" src="https://github.com/user-attachments/assets/fd1bdfcd-6f8a-4fdc-9892-41e54b089027" />
+<img width="868" height="568" alt="image" src="https://github.com/user-attachments/assets/7679860d-3c08-4f60-8a70-e17331669f1c" />
+
 
 * **Ridership Volume:** Annual members recorded higher activity at **3,640,912 trips**, compared to **2,079,885 trips** for casual riders.
 * **Market Share:** Members accounted for **63.64%** of total 2024 rides, while casual riders made up **36.36%**.
