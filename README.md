@@ -85,7 +85,7 @@ I used **SQL Server Management Studio (SSMS 22)** to clean, transform, and verif
 ### 🔍 Analytical Focus
 The central guiding question of this phase is: **How do annual members and casual riders use Cyclistic bikes differently?** To uncover these behavioral differences, the cleaned dataset was imported into **Tableau Desktop** for detailed exploratory data analysis (EDA) and visualization.
 
-### 📈 Total Rides by User Type in 2024 (Pie Chart)
+### Total Rides by User Type in 2024 (Pie Chart)
 The initial analysis examined the overall volume and market share breakdown of bicycle activity across the entire calendar year:
 
 <img width="868" height="568" alt="image" src="https://github.com/user-attachments/assets/7679860d-3c08-4f60-8a70-e17331669f1c" />
@@ -94,19 +94,26 @@ The initial analysis examined the overall volume and market share breakdown of b
 * **Ridership Volume:** Annual members recorded higher activity at **3,640,912 trips**, compared to **2,079,885 trips** for casual riders.
 * **Market Share:** Members accounted for **63.64%** of total 2024 rides, while casual riders made up **36.36%**.
 
-### 📈 Types of Bikes (Horizontal Stacked Bar Chart)
+### Types of Bikes (Horizontal Stacked Bar Chart)
 
 <img width="1457" height="288" alt="image" src="https://github.com/user-attachments/assets/567e810d-99a2-4823-9ae1-a16fe127ca58" />
 
 * **Fleet Preferences:** Both customer segments prefer electric bicycles over classic bicycles.
 * **Scooter Adoption:** Casual riders utilized electric scooters for **81,432 trips**, outperforming the **56,123 trips** taken by annual members.
 
-### 📈Average Ride duration in seconds (Member vs Casual user Horizontal Bar Chart):
+### Average Ride duration in seconds (Member vs Casual user Horizontal Bar Chart):
 
 <img width="1466" height="731" alt="image" src="https://github.com/user-attachments/assets/e5f05419-43ed-4c7d-87e1-c60e1218749f" />
 
 * **The Intensity Gap:** Casual riders average **1,131.1 seconds (18.85 mins)** per trip, while annual members average **716.8 seconds (11.94 mins)**. 
 * **Duration Comparison:** Member ride durations are approximately **1.57 times shorter** than those of casual riders.
+
+### Trips Taken in a Month:
+
+<img width="1457" height="736" alt="image" src="https://github.com/user-attachments/assets/d4f94743-d37d-4b11-8210-1b88b6a63a17" />
+
+* **Seasonal Lows:** Both segments hit their lowest activity levels in January 2024, with members recording **116,518 rides** and casual riders recording **23,642 rides**.
+* **Peak Demand:** Casual riders reached maximum volume in September 2024 with **334,182 rides**, while annual members peaked in July with **465,582 rides**.
 
 ## 📂 Repository Structure
 
