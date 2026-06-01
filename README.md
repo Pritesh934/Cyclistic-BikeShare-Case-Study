@@ -186,7 +186,7 @@ Based on the quantitative trends uncovered in the data, I recommend shifting fro
 
 This comprehensive analysis of historical 2024 trip logs confirms a stark behavioral divergence between user types: while annual members serve as the high-volume foundation using the fleet primarily as a daily commuting utility, casual riders represent high-intensity consumers seeking a premium leisure experience. 
 
-By tailoring Cyclistic's commercial strategy to this consumer reality—focusing heavily on seasonal surges, electric asset preferences, and weekend experiential marketing—the marketing analytics team can successfully drive conversion, maximize high-margin membership acquisition, and secure sustainable, long-term organizational growth. All findings, technical processing steps, and data validations detailed throughout this study are fully supported by the complete dossier available in the *Cyclistic Bike Share Analysis Report_2.pdf*.
+By tailoring Cyclistic's commercial strategy to this consumer reality—focusing heavily on seasonal surges, electric asset preferences, and weekend experiential marketing—the marketing analytics team can successfully drive conversion, maximize high-margin membership acquisition, and secure sustainable, long-term organizational growth. All findings, technical processing steps, and data validations detailed throughout this study are fully supported by the complete dossier available in the *Cyclistic Bike Share Analysis Report.pdf* present in the report subfolder.
 
 ---
 
