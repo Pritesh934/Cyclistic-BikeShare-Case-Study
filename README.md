@@ -98,8 +98,15 @@ The initial analysis examined the overall volume and market share breakdown of b
 
 <img width="1457" height="288" alt="image" src="https://github.com/user-attachments/assets/567e810d-99a2-4823-9ae1-a16fe127ca58" />
 
-* **Fleet Preferences:** Both customer segments prefer electric bicycles over classic bicycles[cite: 2].
-* **Scooter Adoption:** Casual riders utilized electric scooters for **81,432 trips**, outperforming the **56,123 trips** taken by annual members[cite: 2].
+* **Fleet Preferences:** Both customer segments prefer electric bicycles over classic bicycles.
+* **Scooter Adoption:** Casual riders utilized electric scooters for **81,432 trips**, outperforming the **56,123 trips** taken by annual members.
+
+### 📈Average Ride duration in seconds (Member vs Casual user Horizontal Bar Chart):
+
+<img width="1466" height="731" alt="image" src="https://github.com/user-attachments/assets/e5f05419-43ed-4c7d-87e1-c60e1218749f" />
+
+* **The Intensity Gap:** Casual riders average **1,131.1 seconds (18.85 mins)** per trip, while annual members average **716.8 seconds (11.94 mins)**. 
+* **Duration Comparison:** Member ride durations are approximately **1.57 times shorter** than those of casual riders.
 
 ## 📂 Repository Structure
 
