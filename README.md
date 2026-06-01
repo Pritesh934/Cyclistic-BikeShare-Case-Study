@@ -15,7 +15,7 @@ The raw data files were retrieved directly from the [Index of Cyclistic Trip Dat
 ### 1. Data Processing (SQL) 🏗️
 I used **SQL Server Management Studio (SSMS)** to clean and transform the dataset, which initially contained over 5.72 million rows.
 
-* **Consolidation**: Merged 12 monthly CSV files into one unified table.
+* **Consolidation**: Imported 12 monthly CSV files into SSMS 22, verified schema consistency across all datasets, and utilized the UNION ALL operator to merge over 5.72 million raw records into a single, unified data repository for 2024.
 * **Cleaning**: Removed null values, duplicates, and trips under 60 seconds (likely test/maintenance rides).
 * **Final Dataset**: **4,224,062 rows** of clean, usable data.
 * **Feature Engineering**: Created columns for `ride_length`, `day_of_week`, and `month` to identify temporal trends.
