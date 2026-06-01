@@ -20,6 +20,20 @@ I used **SQL Server Management Studio (SSMS)** to clean and transform the datase
 * **Final Dataset**: **4,224,062 rows** of clean, usable data.
 * **Feature Engineering**: Created columns for `ride_length`, `day_of_week`, and `month` to identify temporal trends.
 
+**Data Organization** 
+
+There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for one month, such as the ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not.
+
+The corresponding column names are shown below:
+
+<img width="773" height="640" alt="image" src="https://github.com/user-attachments/assets/e6e2cb71-fce2-47e3-a427-696472ad0bd5" />
+
+and the data type of each variable is depicted below:
+
+<img width="558" height="639" alt="image" src="https://github.com/user-attachments/assets/bae9248e-e96e-4f44-9859-c2f7a1b3a3d9" />
+
+
+
 ### 2. Analysis & Visualization (Tableau) 📊
 The cleaned data was imported into **Tableau Desktop** for exploratory data analysis (EDA) and final dashboarding.
 
