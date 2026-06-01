@@ -85,7 +85,7 @@ I used **SQL Server Management Studio (SSMS 22)** to clean, transform, and verif
 ### 🔍 Analytical Focus
 The central guiding question of this phase is: **How do annual members and casual riders use Cyclistic bikes differently?** To uncover these behavioral differences, the cleaned dataset was imported into **Tableau Desktop** for detailed exploratory data analysis (EDA) and visualization.
 
-### Total Rides by User Type in 2024 (Pie Chart)
+### Total Rides by User Type in 2024 (Pie Chart):
 The initial analysis examined the overall volume and market share breakdown of bicycle activity across the entire calendar year:
 
 <img width="868" height="568" alt="image" src="https://github.com/user-attachments/assets/7679860d-3c08-4f60-8a70-e17331669f1c" />
@@ -94,7 +94,7 @@ The initial analysis examined the overall volume and market share breakdown of b
 * **Ridership Volume:** Annual members recorded higher activity at **3,640,912 trips**, compared to **2,079,885 trips** for casual riders.
 * **Market Share:** Members accounted for **63.64%** of total 2024 rides, while casual riders made up **36.36%**.
 
-### Types of Bikes (Horizontal Stacked Bar Chart)
+### Types of Bikes (Horizontal Stacked Bar Chart):
 
 <img width="1457" height="288" alt="image" src="https://github.com/user-attachments/assets/567e810d-99a2-4823-9ae1-a16fe127ca58" />
 
@@ -114,6 +114,35 @@ The initial analysis examined the overall volume and market share breakdown of b
 
 * **Seasonal Lows:** Both segments hit their lowest activity levels in January 2024, with members recording **116,518 rides** and casual riders recording **23,642 rides**.
 * **Peak Demand:** Casual riders reached maximum volume in September 2024 with **334,182 rides**, while annual members peaked in July with **465,582 rides**.
+
+### Average Ride length in a month in seconds (Line chart):
+
+<img width="1455" height="735" alt="image" src="https://github.com/user-attachments/assets/fd19eedf-931e-4cf9-86bf-d780ecb49807" />
+
+* **Peak Monthly Duration:** Both customer segments record their highest average trip lengths in June.
+* **June Benchmarks:** Annual members peak at **810.3 seconds (13.50 mins)**, while casual riders reach an average maximum of **1,388.1 seconds (23.13 mins)**.
+
+### Trips Taken in a Week (Stacked Column Chart):
+
+<img width="1457" height="731" alt="image" src="https://github.com/user-attachments/assets/df959986-c1fc-4b44-98ca-ee32be887d87" />
+
+* **Weekly Peak:** Overall, bike-share utilization across both segments is most frequented on Saturdays[cite: 2].
+* **Member Patterns:** Annual members reach peak activity on Wednesdays with **599,343 rides** and experience their lowest volume on Sundays with **408,905 rides**.
+* **Casual Patterns:** Casual riders hit maximum volume on Saturdays with **429,321 rides** and drop to their lowest usage on Tuesdays with **225,452 rides**.
+
+### Average Ride length in a week in seconds (Line chart):
+
+<img width="1462" height="727" alt="image" src="https://github.com/user-attachments/assets/7e02f06b-8c4a-4633-b49b-2197adabd394" />
+
+* **Member Weekly Peak:** Annual members experience their longest average trips on Saturdays, reaching 772 seconds (12.86 minutes).  
+* **Casual Weekly Peak:** Casual riders log their maximum trip durations on Sundays, averaging a mean of 1,293 seconds (21.55 minutes).
+
+### Average Ride Length in an hour in seconds (Line Chart):
+
+<img width="1461" height="736" alt="image" src="https://github.com/user-attachments/assets/7d87695e-81ae-42ae-b06b-3d137b844bfb" />
+
+* **Casual Hourly Extremes:** Casual riders log their longest trips at 11:00 AM, averaging 1,382.8 seconds (23.04 minutes), while their shortest trips occur at 6:00 AM at 852.9 seconds (14.21 minutes).
+* **Member Hourly Extremes:** Annual members record their peak trip durations at 5:00 PM (17:00) at 775.7 seconds (12.92 minutes), with their minimum durations matching at 6:00 AM at 660.1 seconds (11.00 minutes).
 
 ## 📂 Repository Structure
 
