@@ -134,7 +134,7 @@ The initial analysis examined the overall volume and market share breakdown of b
 
 <img width="1462" height="727" alt="image" src="https://github.com/user-attachments/assets/7e02f06b-8c4a-4633-b49b-2197adabd394" />
 
-* **Member Weekly Peak:** Annual members experience their longest average trips on Saturdays, reaching 772 seconds (12.86 minutes).  
+* **Member Weekly Peak:** Annual members experience their longest average trips on Sundays, reaching 772.7 seconds (12.87 minutes). On Saturdays their average ride length is at 772 seconds exactly. 
 * **Casual Weekly Peak:** Casual riders log their maximum trip durations on Sundays, averaging a mean of 1,293 seconds (21.55 minutes).
 
 ### Average Ride Length in an hour in seconds (Line Chart):
