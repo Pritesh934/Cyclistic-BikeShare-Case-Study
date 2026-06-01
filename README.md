@@ -90,6 +90,9 @@ The initial analysis examined the overall volume and market share breakdown of b
 
 <img width="1262" height="730" alt="image" src="https://github.com/user-attachments/assets/fd1bdfcd-6f8a-4fdc-9892-41e54b089027" />
 
+* **Ridership Volume:** Annual members recorded higher activity at **3,640,912 trips**, compared to **2,079,885 trips** for casual riders.
+* **Market Share:** Members accounted for **63.64%** of total 2024 rides, while casual riders made up **36.36%**.
+
 ## 📂 Repository Structure
 
 * `Datasets/`: Documentation regarding the source data.
