@@ -150,6 +150,13 @@ The initial analysis examined the overall volume and market share breakdown of b
 
 In this phase, I consolidated the analytical insights into interactive, comprehensive **Tableau dashboards** to visually isolate and present the core behavioral differences between annual members and casual riders. 
 
+<img width="1747" height="812" alt="image" src="https://github.com/user-attachments/assets/1bd0d543-0a00-4a20-88cc-36c8340b71a8" />
+
+<img width="1920" height="801" alt="image" src="https://github.com/user-attachments/assets/e85e19d6-880c-4282-8168-aad8d59e2306" />
+
+<img width="1452" height="803" alt="image" src="https://github.com/user-attachments/assets/038ace8c-a6de-43d3-8a85-fbc123576241" />
+
+
 ### 🔑 Key Findings from the Dashboards & Visualizations
 
 * **📈 Market Share & Volume:** Annual members dominate overall service activity, driving **63.64%** of total utilization with **3,640,912 rides**. Casual riders account for the remaining **36.36%**, translating to **2,079,885 rides** across 2024.
