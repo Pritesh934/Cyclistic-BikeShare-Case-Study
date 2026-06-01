@@ -144,6 +144,45 @@ The initial analysis examined the overall volume and market share breakdown of b
 * **Casual Hourly Extremes:** Casual riders log their longest trips at 11:00 AM, averaging 1,382.8 seconds (23.04 minutes), while their shortest trips occur at 6:00 AM at 852.9 seconds (14.21 minutes).
 * **Member Hourly Extremes:** Annual members record their peak trip durations at 5:00 PM (17:00) at 775.7 seconds (12.92 minutes), with their minimum durations matching at 6:00 AM at 660.1 seconds (11.00 minutes).
 
+---
+
+## 📊 Phase 5: Share
+
+In this phase, I consolidated the analytical insights into interactive, comprehensive **Tableau dashboards** to visually isolate and present the core behavioral differences between annual members and casual riders. 
+
+### 🔑 Key Findings from the Dashboards & Visualizations
+
+* **📈 Market Share & Volume:** Annual members dominate overall service activity, driving **63.64%** of total utilization with **3,640,912 rides**. Casual riders account for the remaining **36.36%**, translating to **2,079,885 rides** across 2024.
+* **⏱️ Intensity of Use:** Casual riders average a significantly higher trip length of **1,131.1 seconds (~18.85 mins)** compared to the member average of **716.8 seconds (~11.94 mins)**. This indicates that member trips are roughly **1.57 times shorter**, reinforcing a "point-to-point" commuting utility profile.
+* **📅 Seasonal & Monthly Trends:** Both segments experience their lowest activity floors in January. Ridership surges heavily during the summer months, with casual users peaking in September (**334,182 rides**) and annual members hitting maximum demand in July (**465,582 rides**).
+* **📆 Weekly Behavior:** Annual members demonstrate highly consistent trip patterns throughout the workweek, peaking on Wednesdays (**599,343 rides**). Conversely, casual riders exhibit strong weekend clustering, reaching maximum volume on Saturdays (**429,321 rides**).
+* **🕒 Hourly Patterns:** Casual riders engage in their longest, highest-duration trips during midday leisure hours at **11:00 AM (1,382.8 seconds)**. In contrast, members reach their maximum average ride durations during the evening rush hour window at **5:00 PM (775.7 seconds)**.
+* **🚲 Product Preference:** Both user cohorts show a definitive preference for electric bicycles over classic, traditional bikes. Additionally, casual users heavily adopted the new electric scooter fleet, logging **81,432 trips** to outperform the **56,123 trips** taken by members.
+
+--- 
+
+## 🚀 Data Analysis Phase 6: Act
+
+Based on the quantitative trends uncovered in the data, I recommend shifting from broad-scale awareness campaigns to targeted, data-driven conversion strategies. The following recommendations focus on specific seasonal peaks, product preferences, and leisure-time engagement to successfully transition high-potential casual riders into loyal, annual subscribers.
+
+### 📈 Strategic Recommendations
+
+* **🎯 1. The "Summer Explorer" Tier (Membership Personalization):** Introduce shorter-term membership packages (such as monthly passes or seasonal packages) specifically optimized for the high-intensity summer peak. This creates a frictionless transition for casual riders who utilize the service heavily for long trips during warm months but are not yet ready to commit to a full annual subscription upfront.
+* **⚡ 2. Electric Fleet Incentives:** Since casual riders demonstrate an exceptionally strong preference for electric bikes and scooters, leverage this behavior by offering member-exclusive perks. Providing preferential fleet access, advanced reservations, or discounted per-minute rates on electric vehicles for annual members creates a compelling incentive to subscribe.
+* **👑 3. "Weekend Warrior" Loyalty Program:** Implement a loyalty and rewards infrastructure specifically targeting high-volume weekend users (the clear peak window for casual riders). This points-based system allows frequent weekend riders to accumulate credits with every trip, which can be directly redeemed as significant monetary discounts toward purchasing a standard annual membership.
+* **📱 4. Targeted Digital & Social Campaigns:** Deploy highly precise digital media and social advertisements synchronized with peak casual usage patterns. Advertisements should be dynamically pushed during the high-activity summer months (May through September) with a specific hourly focus on weekends around 11:00 AM. Content should utilize authentic, user-generated visuals showcasing the distinct leisure, community, and lifestyle benefits of the membership program.
+* **🚴 5. Member-Exclusive Recreational Events:** Organize structured group rides, city milestones, or "Urban Exploration" routing challenges during peak summer operations. Restricting participation to active members or allowing them to invite one guest adds tangible social, community, and experiential value to an annual subscription, directly appealing to leisure-focused casual users.
+
+---
+
+### 🏁 Conclusion
+
+This comprehensive analysis of historical 2024 trip logs confirms a stark behavioral divergence between user types: while annual members serve as the high-volume foundation using the fleet primarily as a daily commuting utility, casual riders represent high-intensity consumers seeking a premium leisure experience. 
+
+By tailoring Cyclistic's commercial strategy to this consumer reality—focusing heavily on seasonal surges, electric asset preferences, and weekend experiential marketing—the marketing analytics team can successfully drive conversion, maximize high-margin membership acquisition, and secure sustainable, long-term organizational growth. All findings, technical processing steps, and data validations detailed throughout this study are fully supported by the complete dossier available in the *Cyclistic Bike Share Analysis Report_2.pdf*.
+
+---
+
 ## 📂 Repository Structure
 
 * `Datasets/`: Documentation regarding the source data.
