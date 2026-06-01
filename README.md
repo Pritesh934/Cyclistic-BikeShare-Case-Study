@@ -93,6 +93,13 @@ The initial analysis examined the overall volume and market share breakdown of b
 * **Ridership Volume:** Annual members recorded higher activity at **3,640,912 trips**, compared to **2,079,885 trips** for casual riders.
 * **Market Share:** Members accounted for **63.64%** of total 2024 rides, while casual riders made up **36.36%**.
 
+### 📈 Types of Bikes (Horizontal Stacked Bar Chart)
+
+<img width="1457" height="288" alt="image" src="https://github.com/user-attachments/assets/567e810d-99a2-4823-9ae1-a16fe127ca58" />
+
+* **Fleet Preferences:** Both customer segments prefer electric bicycles over classic bicycles[cite: 2].
+* **Scooter Adoption:** Casual riders utilized electric scooters for **81,432 trips**, outperforming the **56,123 trips** taken by annual members[cite: 2].
+
 ## 📂 Repository Structure
 
 * `Datasets/`: Documentation regarding the source data.
