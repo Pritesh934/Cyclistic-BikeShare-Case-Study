@@ -5,6 +5,11 @@ As part of the **Google Data Analytics Professional Certification**, I analyzed 
 
 ---
 
+## 💾 Data Source
+The dataset used for this analysis consists of 12 months of historical trip data from 2024, made publicly available by Motivate International Inc. under this [Data License Agreement](https://divvybikes.com/data-license-agreement). 
+
+The raw data files were retrieved directly from the [Index of Cyclistic Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
+
 ## 🛠️ Technical Workflow
 
 ### 1. Data Processing (SQL) 🏗️
